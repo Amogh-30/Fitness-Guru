@@ -1,6 +1,6 @@
 Fitness Guru LLM
 
-Users can login to their personalized accounts where suggessions will be given based on their age, ailments, etc,.
+Users can login to their personalized accounts where suggestions will be given based on their age, ailments, etc,.
 Basically, anything that is personal to a user.
 
 Users will be able to prompt the LLM for a workout based around their constraints.
